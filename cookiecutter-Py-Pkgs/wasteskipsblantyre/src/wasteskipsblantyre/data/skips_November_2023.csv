@@ -1,0 +1,42 @@
+﻿Skip,Supervision area,Context,Context_simple,Direct access,# skips,lat,long,Estimated fill up time (days),Estimated fill up time rainy season (days)
+Limbe flea market,Limbe,Market,Market,Through market (dirt path),1,-15.81628205,35.05625179,6,
+Limbe produce market,Limbe,Market,Market,Through market (dirt path),2,-15.8178767,35.0557602,,
+Pafumbi bus,Limbe,Market/bus station,Market,Dirt road,1,-15.819399,35.054275,,
+ITG,Limbe,"500m from market, business area",Market,Dirt road,2,-15.819945,35.059309,,
+Bangwe market,Limbe,Market,Market,Through market (dirt path),2,-15.835162,35.087989,,
+Bangwe ground,Limbe,Market/residential,Market,Through market (dirt path),1,-15.83307,35.088249,,
+Naizi,Limbe,Market,Market,Through market (dirt path),2,-15.841398,35.089437,,
+BCA market,Limbe,Market,Market,Dirt road,1,-15.839022,35.075069,,
+Chigumula B (Likotima),Limbe,Market/residential,Market,Through market (dirt path),1,-15.853959,35.05674,,
+Chigumula A (Main),Limbe,Market,Market,Through market (dirt path),2,-15.886226,35.063088,,
+Kachere,Limbe,Market,Market,Paved road,1,-15.790015,35.08564,3,
+Nkolokoti,Limbe,Market/residential,Market,Through market (dirt path),1,-15.790558,35.069467,,
+Khama,Limbe,Market/residential,Market,Paved road,1,-15.7677,35.0745,,
+Nanjiri,Limbe,Market/residential,Market,Paved road,1,-15.7447,35.0811,,
+South Lunzu,Limbe,Bars/residential,Market,Through market (dirt path),1,-15.7308863,35.0561148,,
+Kamba/Soche market,Soche,Market,Market,Through market (dirt path),1,-15.80940766,35.01530217,7,5
+Zingwangwa,Soche,Market/residential,Market,Dirt road,1,-15.8186407,35.0134486,2,1
+Chimwankhunda,Soche,Residential,Residential,Dirt road,1,-15.82443778,35.01387915,7,5
+Chilobwe police,Soche,Residential,Residential,Dirt road,1,-15.83250292,35.00580386,3,3
+Zingwangwa mosque,Soche,Residential,Residential,Dirt road,0,-15.81696182,35.01170878,7,4
+Zingwangwa waterboard,Soche,Residential,Residential,Dirt road,1,-15.81616845,35.01458349,7,
+Ndirande,Ginnery Corner,Market,Market,Paved road,2,-15.776998,35.036692,,
+Queens guardian shelter,Ginnery Corner,Residential,Residential,Dirt road,1,-15.8029,35.0193,14,3
+Namwalimwe,Ginnery Corner,Residential,Residential,Paved road,1,-15.7825,35.0354,21,7
+Chilunga/Matope,Ginnery Corner,Residential,Residential,Dirt road,1,-15.7765,35.0483,21,
+Blantyre produce,Blantyre,Market,Market,Through market (dirt path),1,-15.79106833,35.00696,1,0.5
+Chemusa,Blantyre,Market/residential,Market,Paved road,1,-15.76600589,34.99935951,3,
+Chirimba,Blantyre,Market/residential,Market,Dirt road,1,-15.74468123,35.01919829,2,
+Mibawa,Blantyre,Market/bus station,Market,Paved road,2,-15.788659,35.007426,3,
+Blantyre Flea Market,Blantyre,Market,Market,Paved road/through market,0,-15.7887094,35.0063944,1,
+Mbwerera,Blantyre,Residential,Residential,Paved road,1,-15.7706,34.9945,7,
+Chilomoni Fargo,Blantyre,Residential,Residential,Dirt road,1,-15.7759,34.9811,5,
+Chilomoni market,Blantyre,Market,Market,Through market (dirt path),1,-15.7734,34.9817,5,
+Nthukwa,Blantyre,Market,Market,Through market (dirt path),1,-15.7638,34.9801,4,
+Manasae,Blantyre,Market,Market,Through market (dirt path),1,-15.811957,34.993324,7,
+Kameza roundabout,Blantyre,Market,Market,Paved road,1,-15.72487477,35.01884656,,
+Mapeto,Private,,,,1,-15.7911539,35.0306417,,
+Kayange ,Blantyre,unknown,unknown,unknown,1,-15.7757052,35.0027513,,
+CFAO,Private,Private,Private,,1,-15.7940621,35.0116083,,
+Valmole paint,Private,Private,Private,,1,-15.7913339,35.0192262,,
+Wenera,Private,Private,Private,,1,-15.7856473,35.0157584,,
