@@ -10,3 +10,6 @@ def dictionary():
 	with resources.path("wasteskipsblantyre.data", "dictionary.csv") as f:
 		df = pd.read_csv(f)
 	return df
+
+def skips_file():
+	return resources.path("wasteskipsblantyre.data", "skips_November_2023.csv")
