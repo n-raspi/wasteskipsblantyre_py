@@ -1,4 +1,4 @@
-from import lib import resources
+from importlib import resources
 import pandas as pd
 
 def skips():
